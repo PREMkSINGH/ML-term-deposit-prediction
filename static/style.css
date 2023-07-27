@@ -1,0 +1,38 @@
+body{
+width:100%;
+height:100%;
+border: 2px solid black;
+background:url("campaign1.jpg") no-repeat;
+/*background-repeat:repeat-y;*/
+background-position:top right;
+background-size:100% 100%;
+background-attachment: fixed;
+}
+
+.form1{
+text-align:center;
+font-size:30px;
+}
+
+.size{
+height:30px;
+width:160px;
+font-size:28px;
+}
+
+.size1{
+height:30px;
+width:350px;
+font-size:28px;
+}
+
+.left {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+  width: 50%;
+}
+
